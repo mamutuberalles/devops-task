@@ -21,3 +21,7 @@ See all open jobs at https://careers.formlabs.com/
 
 - Explain as much as possible in the commit message(s) and/or comments if needed. See more on commit messages [here](https://chris.beams.io/posts/git-commit/).
 - It would be great if you'd also write about why you choose a certain technology if there are alternatives to consider.
+
+
+Note from completer:
+- Check out Issues!

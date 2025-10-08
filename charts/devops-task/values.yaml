@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: mamutuberalles/helloapp #TODO build and push dockerimage here
+  repository: mamutuberalles/helloapp
   tag: latest
   pullPolicy: IfNotPresent
 

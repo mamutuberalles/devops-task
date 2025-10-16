@@ -1,4 +1,4 @@
-name: Pipeline for docker contanierization
+name: Pipeline for docker containerization
 
 on:
   push:

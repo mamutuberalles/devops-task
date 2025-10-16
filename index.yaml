@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  devops-task:
+  - apiVersion: v2
+    created: "2025-10-16T17:06:30.405582529Z"
+    description: A Helmchart for the devops task given by Formlabs
+    digest: 1b8383b7f4b174c6a895f138434ac61db8d06d93c908908722b70db22ebf31a9
+    name: devops-task
+    urls:
+    - https://github.com/mamutuberalles/devops-task/releases/download/devops-task-0.0.1/devops-task-0.0.1.tgz
+    version: 0.0.1
+generated: "2025-10-16T17:06:30.405592628Z"

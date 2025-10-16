@@ -6,6 +6,9 @@ on:
     paths:
       - 'charts/*'
   workflow_dispatch:
+  workflow_run:
+    workflows: ["Pipeline for docker containerization"]
+    types: [completed]
 
 jobs:
   release:

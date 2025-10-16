@@ -6,6 +6,9 @@ on:
     paths:
       - 'docker/*'
   workflow_dispatch:
+  workflow_run:
+    workflows: ["Pipeline for application testing and building"]
+    types: [completed]
 
 
 jobs:

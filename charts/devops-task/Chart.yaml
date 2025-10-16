@@ -1,4 +1,4 @@
 apiVersion: v2
 name: devops-task
 description: A Helmchart for the devops task given by Formlabs
-version: 0.0.2
+version: 0.0.3

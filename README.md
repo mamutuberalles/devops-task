@@ -21,3 +21,15 @@ See all open jobs at https://careers.formlabs.com/
 
 - Explain as much as possible in the commit message(s) and/or comments if needed. See more on commit messages [here](https://chris.beams.io/posts/git-commit/).
 - It would be great if you'd also write about why you choose a certain technology if there are alternatives to consider.
+
+
+From me:
+
+See the issues, where I've documented the progress, and executive decisions of the tasks.
+Also, the commits are detailed as much as could be.
+
+
+I chose docker because that is the one I have years of experience working with.
+Docker also has built in k8s cluster which is handy when deploying an application is part of the testing process.
+I've used helm because I have years of experience working with it, so no extra added difficulty, and looks better/cleaner.
+I've used github actions since it was an obvious choice, I've worked with bitbucket pipelines and azure pipelines, both would've needed extra setup, and learning github actions was worth working with.

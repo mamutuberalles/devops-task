@@ -10,7 +10,6 @@ on:
 
 jobs:
   build-and-push-docker:
-    needs: build-and-test-app
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v5

@@ -7,7 +7,7 @@ spec:
   interval: 5m
   chart:
     spec:
-      chart: ./charts/devops-task  # Path to your chart in the repo
+      chart: ./charts/devops-task
       sourceRef:
         kind: GitRepository
         name: devops-task-git-repository
